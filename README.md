@@ -9,5 +9,7 @@ Do the following:
 open terminal (Ctrl + Alt + T)
 
 sudo git clone https://github.com/KipCrossing/kivypi.git
+
 cd kivypi
+
 sudo sh install-kivypi.sh
