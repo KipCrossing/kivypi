@@ -1,11 +1,12 @@
 # kivypi
-Install Kivy onto raspbian for the Raspberry Pi
 
-Works for dabian users
+Raspberry Pi and Kivy 
+
+Install Kivy on raspbian
 
 by Kip Crossing
 
------------------------------------------------------
+----------------------------
 
 Do the following:
 
