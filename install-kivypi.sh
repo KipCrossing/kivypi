@@ -1,4 +1,4 @@
-
+sudo apt-get install git -y
 sudo apt-get install libwayland0=0.85.0-2 -y
 sudo apt-get install python-setuptools python-pygame python-opengl python-gst0.10 python-enchant gstreamer0.10-plugins-good python-dev build-essential libgl1-mesa-dev libgles2-mesa-dev python-pip -y
 sudo pip install cython==0.21
