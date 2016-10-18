@@ -12,7 +12,7 @@ Do the following:
 
 open terminal (Ctrl + Alt + T) and type in the following
 
-sudo git clone https://github.com/KipCrossing/kivypi.git
+git clone https://github.com/KipCrossing/kivypi.git
 
 cd kivypi
 
